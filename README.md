@@ -1,1 +1,1 @@
-# Final_project
+Understood and replicated the approximate multiplier design from a research paper. Used MATLAB to calculate metrics such as MRED, NMED, and ER%. Employed Cadence Design Suite with a 45nm standard cell library to evaluate area, power, and delay. Integrated an approximate compressor from another paper to optimize the least significant bits, achieving reduced area and power with a tradeoff in MRED and NMED 
